@@ -33,3 +33,9 @@ If you want to run it against multiple commits, you can do `java RunBenchmarkSui
 * Upgrade license: `./mvnw validate license:format`
 * Upgrade the Maven wrapper: `./mvnw -N io.takari:maven:0.7.7:wrapper`
 * Check plugins to upgrade: `./mvnw versions:display-dependency-updates versions:display-plugin-updates`
+
+## For Study Clean Code
+
+[Medium post about clean code](
+https://medium.com/@roanmonteiro/clean-code-with-java-replace-the-logical-condition-using-enum-if-else-statements-898bd6a85327#)
+
